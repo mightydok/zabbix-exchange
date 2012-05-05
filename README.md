@@ -1,4 +1,7 @@
 zabbix-exchange
 ===============
 
-Repos for zabbix templates, additions and other zabbix related projects.
+Russian:
+
+Описание:
+Репозитория для различных шаблонов, дополнений и других программ для ПО Zabbix.
