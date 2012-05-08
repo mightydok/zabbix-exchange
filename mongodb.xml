@@ -1848,7 +1848,7 @@
             <application>Memory</application>
           </applications>
         </item>
-        <item type="10" key="mikoomi-mongodb-plugin.sh[-h {$MONGODB_HOSTNAME} -p {$MONGODB_PORT} -z {$MONGODB_ZABBIX_NAME}]" value_type="3">
+        <item type="10" key="mikoomi-mongodb-plugin.sh[-h {$MONGODB_HOSTNAME} -p {$MONGODB_PORT} -z {$MONGODB_ZABBIX_NAME}-u {$MONGODB_USER} -x {$MONGODB_PASS}]" value_type="3">
           <description>Miscellaneous: Data Collector</description>
           <ipmi_sensor></ipmi_sensor>
           <delay>60</delay>
