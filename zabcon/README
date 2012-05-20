@@ -1,0 +1,4 @@
+Консольная утилита Zabbix CLI.
+Реализована на Ruby, позволяет управлять сервером zabbix из консоли сервера.
+
+Сайт проекта: http://trac.red-tux.net/wiki/zbx_api/zabcon
